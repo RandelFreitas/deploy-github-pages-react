@@ -7,6 +7,7 @@ Pequeno teste para entender como funciona o deploy de uma aplicação ReactJS no
   -> yarn add -D gh-pages
 
 3. Adicionar as seguintes propriedades no arquivo package.json:
+<br/>
   ...
   "homepage": "https://seuNomeNoGitHub.github.io/your-app-name",
   "scripts": {
